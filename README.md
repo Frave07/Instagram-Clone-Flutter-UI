@@ -1,6 +1,6 @@
 # INSTAGRAM CLONE UI - FLUTTER
 
-Frave Programmer
+Frave Developer
 
 ### Invitame un cafe
 
